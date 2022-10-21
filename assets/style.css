@@ -1,0 +1,50 @@
+.para {
+    color: maroon;
+    text-align:center;
+    font-style:italic;
+}
+
+.p1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(80, 38, 38);
+}
+
+
+.nanda {
+    width: 250px;
+    height: 250px;
+object-fit: cover;
+box-shadow:0 0 0 5px #570505,
+           0 0 0 10px #000000,
+           0 0 0 15px #c25757; 
+		   }
+
+.title {
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 5px;
+    margin-top: 10px;
+}
+
+.subtitle {
+    letter-spacing: 10px;
+}
+        
+#hero {
+    height: 95vh;
+}
+
+.text-about {
+    text-indent: 50px;
+    text-align: justify;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-text {
+    text-align: justify;
+}
+
+
